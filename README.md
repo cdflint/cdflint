@@ -29,11 +29,10 @@ I am a GIS professional with a background in system administration, data analysi
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
 <a href="https://microsoft.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/cdflint/cdflint/main/logos/msql-server-svgrepo-com.svg" width="36" height="36" alt="MS SQL Server" /></a>
 <a href="https://www.esri.com/en-us/home" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/cdflint/cdflint/main/logos/arcgis-online-svgrepo-com.svg" width="36" height="36" alt="ArcGIS Online" /></a>
-<a href="https://www.esri.com/en-us/home" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/cdflint/cdflint/main/logos/ArcGIS-Enterprise
-.svg" width="36" height="36" alt="ArcGIS Online" /></a>
+<a href="https://www.esri.com/en-us/home" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/cdflint/cdflint/main/logos/ArcGIS-Enterprise.svg" width="36" height="36" alt="ArcGIS Enterprise" /></a>
 <a href="https://kubernetes.io" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/cdflint/cdflint/main/logos/kubernetes-svgrepo-com.svg" width="36" height="36" alt="Kubernetes" /></a>
 <a href="https://www.docker.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/cdflint/cdflint/main/logos/docker-svgrepo-com.svg" width="36" height="36" alt="" /></a>
-<a href="https://github.com/PowerShell/PowerShell" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/cdflint/cdflint/main/logos/powershell-svgrepo-com.svg" width="36" height="36" alt="PowerShell" /></a>
+<a href="https://github.com/PowerShell/PowerShell" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/cdflint/cdflint/main/logos/powershell2-svgrepo-com.svg" width="36" height="36" alt="PowerShell" /></a>
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/cdflint/cdflint/main/logos/terminal-svgrepo-com.svg" width="36" height="36" alt="Bash/Zsh" /></a>
 <a href="https://en.wikipedia.org/wiki/Cartography" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/cdflint/cdflint/main/logos/map-svgrepo-com.svg" width="36" height="36" alt="" /></a>
 </p>
