@@ -1,5 +1,73 @@
-<?xml version="1.0" encoding="utf-8"?><!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
-<svg width="800px" height="800px" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-<rect width="24" height="24" fill="white"/>
-<path fill-rule="evenodd" clip-rule="evenodd" d="M7.29291 14.2929C6.90238 14.6834 6.90238 15.3166 7.29291 15.7071C7.68343 16.0976 8.31659 16.0976 8.70712 15.7071L11.2071 13.2071C11.8738 12.5404 11.8738 11.4596 11.2071 10.7929L8.70712 8.29289C8.3166 7.90237 7.68343 7.90237 7.29291 8.29289C6.90238 8.68342 6.90238 9.31658 7.29291 9.70711L9.5858 12L7.29291 14.2929ZM13 14C12.4477 14 12 14.4477 12 15C12 15.5523 12.4477 16 13 16H16C16.5523 16 17 15.5523 17 15C17 14.4477 16.5523 14 16 14H13ZM22 7.93418C22 7.95604 22 7.97799 22 8.00001L22 16.0658C22.0001 16.9523 22.0001 17.7161 21.9179 18.3278C21.8297 18.9833 21.631 19.6117 21.1213 20.1213C20.6117 20.631 19.9833 20.8297 19.3278 20.9179C18.7161 21.0001 17.9523 21.0001 17.0658 21L6.9342 21C6.0477 21.0001 5.28388 21.0001 4.67222 20.9179C4.0167 20.8297 3.38835 20.631 2.87869 20.1213C2.36902 19.6117 2.17028 18.9833 2.08215 18.3278C1.99991 17.7161 1.99995 16.9523 2 16.0658L2 7.9342C1.99995 7.0477 1.99991 6.28388 2.08215 5.67221C2.17028 5.0167 2.36902 4.38835 2.87869 3.87868C3.38835 3.36902 4.0167 3.17028 4.67222 3.08215C5.28388 2.99991 6.04769 2.99995 6.93418 3L17 3.00001C17.022 3.00001 17.044 3 17.0658 3C17.9523 2.99995 18.7161 2.99991 19.3278 3.08215C19.9833 3.17028 20.6117 3.36902 21.1213 3.87869C21.631 4.38835 21.8297 5.0167 21.9179 5.67221C22.0001 6.28387 22.0001 7.04769 22 7.93418Z" fill="#323232"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+
+<svg
+   width="800px"
+   height="800px"
+   viewBox="0 0 24 24"
+   fill="none"
+   version="1.1"
+   id="svg2600"
+   sodipodi:docname="terminal-svgrepo-com.svg"
+   inkscape:version="1.2.2 (b0a84865, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2604">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient5111">
+      <stop
+         style="stop-color:#808080;stop-opacity:1;"
+         offset="0"
+         id="stop5107" />
+      <stop
+         style="stop-color:#808080;stop-opacity:0;"
+         offset="1"
+         id="stop5109" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5111"
+       id="linearGradient5113"
+       x1="0"
+       y1="12"
+       x2="24"
+       y2="12"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     id="namedview2602"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#505050"
+     showgrid="false"
+     inkscape:zoom="0.295"
+     inkscape:cx="328.81356"
+     inkscape:cy="400"
+     inkscape:window-width="1309"
+     inkscape:window-height="456"
+     inkscape:window-x="0"
+     inkscape:window-y="38"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2600" />
+  <rect
+     width="24"
+     height="24"
+     fill="white"
+     id="rect2596"
+     style="fill-opacity:1;fill:url(#linearGradient5113);fill-rule:nonzero" />
+  <path
+     fill-rule="evenodd"
+     clip-rule="evenodd"
+     d="M7.29291 14.2929C6.90238 14.6834 6.90238 15.3166 7.29291 15.7071C7.68343 16.0976 8.31659 16.0976 8.70712 15.7071L11.2071 13.2071C11.8738 12.5404 11.8738 11.4596 11.2071 10.7929L8.70712 8.29289C8.3166 7.90237 7.68343 7.90237 7.29291 8.29289C6.90238 8.68342 6.90238 9.31658 7.29291 9.70711L9.5858 12L7.29291 14.2929ZM13 14C12.4477 14 12 14.4477 12 15C12 15.5523 12.4477 16 13 16H16C16.5523 16 17 15.5523 17 15C17 14.4477 16.5523 14 16 14H13ZM22 7.93418C22 7.95604 22 7.97799 22 8.00001L22 16.0658C22.0001 16.9523 22.0001 17.7161 21.9179 18.3278C21.8297 18.9833 21.631 19.6117 21.1213 20.1213C20.6117 20.631 19.9833 20.8297 19.3278 20.9179C18.7161 21.0001 17.9523 21.0001 17.0658 21L6.9342 21C6.0477 21.0001 5.28388 21.0001 4.67222 20.9179C4.0167 20.8297 3.38835 20.631 2.87869 20.1213C2.36902 19.6117 2.17028 18.9833 2.08215 18.3278C1.99991 17.7161 1.99995 16.9523 2 16.0658L2 7.9342C1.99995 7.0477 1.99991 6.28388 2.08215 5.67221C2.17028 5.0167 2.36902 4.38835 2.87869 3.87868C3.38835 3.36902 4.0167 3.17028 4.67222 3.08215C5.28388 2.99991 6.04769 2.99995 6.93418 3L17 3.00001C17.022 3.00001 17.044 3 17.0658 3C17.9523 2.99995 18.7161 2.99991 19.3278 3.08215C19.9833 3.17028 20.6117 3.36902 21.1213 3.87869C21.631 4.38835 21.8297 5.0167 21.9179 5.67221C22.0001 6.28387 22.0001 7.04769 22 7.93418Z"
+     fill="#323232"
+     id="path2598" />
 </svg>
