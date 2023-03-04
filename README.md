@@ -13,7 +13,7 @@ I am a GIS professional with a background in system administration, data analysi
 
 
 <p align="left">
-<a href="https://microsoft.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/cdflint/cdflint/main/logos/microsoft-color-svgrepo-com.svg" width="36" height="36" alt="Windows" /></a>
+<a href="https://microsoft.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/cdflint/cdflint/main/logos/windows-color-svgrepo-com.svg" width="36" height="36" alt="Windows" /></a>
 <a href="https://redhat.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/cdflint/cdflint/main/logos/redhat-svgrepo-com.svg" width="36" height="36" alt="RedHat" /></a>
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/cdflint/cdflint/main/logos/aws-svgrepo-com.svg" width="36" height="36" alt="" /></a>
 <a href="https://azure.microsoft.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/cdflint/cdflint/main/logos/azure-svgrepo-com.svg" width="36" height="36" alt="Azure" /></a>
