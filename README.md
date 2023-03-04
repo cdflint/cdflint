@@ -21,19 +21,19 @@ I am a GIS professional with a background in system administration, data analysi
 <a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg" width="36" height="36" alt="Webpack" /></a>
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
-<a href="https://ansible.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/cdflint/cdflint/logos/ansible-svgrepo-com.svg" width="36" height="36" alt="Ansible" /></a>
-<a href="https://www.esri.com/en-us/home" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/cdflint/cdflint/logos/arcgis-online-svgrepo-com.svg" width="36" height="36" alt="ArcGIS Online" /></a>
-<a href="https://microsoft.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/cdflint/cdflint/logos/microsoft-svgrepo-com.svg" width="36" height="36" alt="Windows" /></a>
-<a href="https://redhat.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/cdflint/cdflint/logos/redhat-svgrepo-com.svg" width="36" height="36" alt="RedHat" /></a>
-<a href="https://microsoft.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/cdflint/cdflint/logos/msql-server-svgrepo-com.svg" width="36" height="36" alt="MS SQL Server" /></a>
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/cdflint/cdflint/logos/aws-svgrepo-com.svg" width="36" height="36" alt="" /></a>
-<a href="https://azure.microsoft.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/cdflint/cdflint/logos/azure-svgrepo-com.svg" width="36" height="36" alt="Azure" /></a>
-<a href="https://www.chef.io" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/cdflint/cdflint/logos/chef-svgrepo-com.svg" width="36" height="36" alt="Chef" /></a>
-<a href="https://kubernetes.io" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/cdflint/cdflint/logos/kubernetes-svgrepo-com.svg" width="36" height="36" alt="Kubernetes" /></a>
-<a href="https://www.docker.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/cdflint/cdflint/logos/docker-svgrepo-com.svg" width="36" height="36" alt="" /></a>
-<a href="https://github.com/PowerShell/PowerShell" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/cdflint/cdflint/logos/powershell-svgrepo-com.svg" width="36" height="36" alt="PowerShell" /></a>
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/cdflint/cdflint/logos/terminal-svgrepo-com.svg" width="36" height="36" alt="Bash/Zsh" /></a>
-<a href="https://en.wikipedia.org/wiki/Cartography" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/cdflint/cdflint/logos/map-svgrepo-com.svg" width="36" height="36" alt="" /></a>
+<a href="https://ansible.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/cdflint/cdflint/main/logos/ansible-svgrepo-com.svg" width="36" height="36" alt="Ansible" /></a>
+<a href="https://www.esri.com/en-us/home" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/cdflint/cdflint/main/logos/arcgis-online-svgrepo-com.svg" width="36" height="36" alt="ArcGIS Online" /></a>
+<a href="https://microsoft.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/cdflint/cdflint/main/logos/microsoft-svgrepo-com.svg" width="36" height="36" alt="Windows" /></a>
+<a href="https://redhat.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/cdflint/cdflint/main/logos/redhat-svgrepo-com.svg" width="36" height="36" alt="RedHat" /></a>
+<a href="https://microsoft.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/cdflint/cdflint/main/logos/msql-server-svgrepo-com.svg" width="36" height="36" alt="MS SQL Server" /></a>
+<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/cdflint/cdflint/main/logos/aws-svgrepo-com.svg" width="36" height="36" alt="" /></a>
+<a href="https://azure.microsoft.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/cdflint/cdflint/main/logos/azure-svgrepo-com.svg" width="36" height="36" alt="Azure" /></a>
+<a href="https://www.chef.io" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/cdflint/cdflint/main/logos/chef-svgrepo-com.svg" width="36" height="36" alt="Chef" /></a>
+<a href="https://kubernetes.io" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/cdflint/cdflint/main/logos/kubernetes-svgrepo-com.svg" width="36" height="36" alt="Kubernetes" /></a>
+<a href="https://www.docker.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/cdflint/cdflint/main/logos/docker-svgrepo-com.svg" width="36" height="36" alt="" /></a>
+<a href="https://github.com/PowerShell/PowerShell" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/cdflint/cdflint/main/logos/powershell-svgrepo-com.svg" width="36" height="36" alt="PowerShell" /></a>
+<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/cdflint/cdflint/main/logos/terminal-svgrepo-com.svg" width="36" height="36" alt="Bash/Zsh" /></a>
+<a href="https://en.wikipedia.org/wiki/Cartography" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/cdflint/cdflint/main/logos/map-svgrepo-com.svg" width="36" height="36" alt="" /></a>
 </p>
 
 
