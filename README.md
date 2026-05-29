@@ -56,7 +56,7 @@ I am a GIS professional with a background in system administration, data analysi
 <tr>
 <td align="center" style="border: none;"><a href="https://www.github.com/cdflint" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /><br />GitHub</a></td>
 <td align="center" style="border: none;"><a href="https://www.linkedin.com/in/carl-flint-gisp-ba8087121/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /><br />LinkedIn</a></td>
-<td align="center" style="border: none;"><a href="https://www.stackoverflow.com/users/carl-flint" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /><br />Stack Overflow</a></td>
+<td align="center" style="border: none;"><a href="https://stackoverflow.com/users/8082326/carl-flint" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /><br />Stack Overflow</a></td>
 </tr>
 </table>
 
